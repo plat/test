@@ -1,0 +1,5 @@
+=.gitignore==============
+# Eclipse and idea
+.settings
+.project
+.classpath
